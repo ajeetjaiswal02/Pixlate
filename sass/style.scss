@@ -1,0 +1,34 @@
+/* =================================
+------------------------------------
+  Tulen | Photography HTML Template
+  Version: 1.0
+ ------------------------------------
+ ====================================*/
+ @import 'varriable';
+ @import '_mixins';
+
+
+// default
+@import 'default';
+
+// helper
+@import 'helper';
+
+//loader
+@import 'loader';
+ 
+// Menu
+@import 'menu';
+ 
+//hero
+@import 'hero';
+
+//About Page
+@import 'about-page';
+
+//Gallery Page
+@import 'gallery-page';
+ 
+//Contact Page
+@import 'contact-page';
+ 
